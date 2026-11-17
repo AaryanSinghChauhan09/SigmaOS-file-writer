@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-file-writer"
-description = "SigmaOS subsystem component for file-writer"
+description = "Minimal distraction-free text writer"
 version = "0.1.0"
 tier = 5
 
